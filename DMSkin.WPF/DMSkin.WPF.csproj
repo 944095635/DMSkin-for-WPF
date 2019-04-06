@@ -179,11 +179,10 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DMSkin.Core\DMSkin.Core.csproj">
-      <Project>{13da6558-356b-47b9-96f2-fe4d5457cb02}</Project>
+    <ProjectReference Include="..\..\DMSkin\DMSkin.Core\DMSkin.Core.csproj">
+      <Project>{c11fccc3-4a44-42a1-829b-57e8c146ec89}</Project>
       <Name>DMSkin.Core</Name>
     </ProjectReference>
   </ItemGroup>
-  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
