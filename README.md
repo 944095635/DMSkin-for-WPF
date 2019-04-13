@@ -7,8 +7,8 @@
 
 
 
-此库作废，请查看新版
-https://github.com/944095635/DMSkin
+# 此库作废，请查看新版
+# https://github.com/944095635/DMSkin
 
 
 
@@ -38,7 +38,7 @@ https://github.com/944095635/DMSkin
 
 
 
-# ！！！目前Windows 10 更新之后，修改了系统某些特性造成软件闪烁，此项目目前仅作学习之用。！！！
+ ！！！目前Windows 10 更新之后，修改了系统某些特性造成软件闪烁，此项目目前仅作学习之用。！！！
 [中文说明请点这里](./DMSkin.Docs/)
 
 ![](https://img.shields.io/badge/.NET-%3E%3D3.5-brightgreen.svg)
